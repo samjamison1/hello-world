@@ -1,2 +1,3 @@
 # hello-world
 public workings....
+My name is Samuel Jamison. My major is Mathematics. I prefer to help people in my life of living if I am able to help them.
